@@ -34,3 +34,17 @@ KRT = "setup/countries/central_asia/keriat.txt"
 URK = "setup/countries/central_asia/uriankhai.txt"
 QAY = "setup/countries/central_asia/qay.txt"
 MON = "setup/countries/central_asia/mongol.txt"
+
+# BURMA
+PAG = "setup/countries/burma/pagan.txt"
+THA = "setup/countries/burma/thatton.txt"
+SRK = "setup/countries/burma/sriksetra.txt"
+PEG = "setup/countries/burma/pegu.txt"
+
+# FORMABLES
+LIA = "setup/countries/east_asia/liao.txt"
+KHA = "setup/countries/central_asia/mongol_empire.txt"
+TRK = "setup/countries/central_asia/turkic_khaganate.txt"
+KOR = "setup/countries/east_asia/korea.txt"
+TIB = "setup/countries/central_asia/tibet.txt"
+UGR = "setup/countries/central_asia/uyghur.txt"
