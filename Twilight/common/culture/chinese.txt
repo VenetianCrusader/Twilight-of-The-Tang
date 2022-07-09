@@ -1,0 +1,348 @@
+﻿chinese = {
+	color = hsv { 0.45 1.0 1.0 }
+	
+	levy_template = levy_chinese
+	
+	primary = light_infantry
+	second = archers
+	flank = chariots
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+
+	male_names = {
+			Zhanji Zhanjun Zhanyong Zhanyin Zhanshan Zhangang Zhan'ao Zhankai Zhanyan Jianrui Jianlin Jianti Jianchun 
+			Jianze Jianjun Jianzhi Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
+			Houwei Houxi Houcong Zaiji Zairui Zaihou Yiling Yijun Yiliu Changluo Changxu Changxun Changzhi Changhao 
+			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
+			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
+			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
+			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
+			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
+			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
+			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
+			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
+			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
+		}
+		female_names = {
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen 
+			Xiao'e Xiaoying Xiaoyuan Xiaoji Xiaolou
+		}
+	family = {
+		Zhu Wu Geng Shang Zheng Zhao Li Shi Liu Guo Yang Wang Qian Ma Meng Gao Chen Sun Sima Cao Xiao Qi Zu Zhou Huang Bai Qiu Tang Lu	Xu Chang  Feng Deng Hua Gu Fei Fu Hu Mei Xue Liao Jin Ye He Lan Du Fang Mao Hao  Kong Jiao Si Pan Zuo Ding Bao Yan Tan Han Luo Xie Yuan Qin Ruan Niu Zeng Dong Lin Shen Ouyang Su Yu Ren Chai Xia Mo Dai Jiang Yue Jia Xiong Cui
+	}
+	
+	culture = {
+		han = {}
+		zhao = {}
+		qi = {}
+		chu = {}
+		min = {}
+		sichuanese = {}
+		
+		#CONVERTED CULTURES
+		chinese_puntic = {}
+		chinese_aksumite = {}
+		chinese_carian = {}
+		chinese_phrygian = {}
+		chinese_lycaonian = {}
+		chinese_isaurian = {}
+		chinese_paphlagonian = {}
+		chinese_lycian = {}
+		chinese_pamphylian = {}
+		chinese_mysian = {}
+		chinese_pontic = {}
+		chinese_cilician = {}
+		chinese_lydian = {}
+		chinese_cappadocian = {}
+		chinese_pisidian = {}
+		chinese_milyadian = {}
+		chinese_cataonian = {}
+		chinese_lalasian = {}
+		chinese_cabalian = {}
+		chinese_oroandian = {}
+		chinese_morimenian = {}
+		chinese_kennataian = {}
+		chinese_vidharban = {}
+		chinese_saurashtran = {}
+		chinese_lankan = {}
+		chinese_maharashtran = {}
+		chinese_gandhari = {}
+		chinese_shauraseni = {}
+		chinese_avanti = {}
+		chinese_sindhi = {}
+		chinese_dardic = {}
+		chinese_formosan = {}
+		chinese_malay = {}
+		chinese_sumatran = {}
+		chinese_bactrian = {}
+		chinese_margian = {}
+		chinese_sogdian = {}
+		chinese_shule = {}
+		chinese_phryni = {}
+		chinese_tayuan = {}
+		chinese_wusun = {}
+		chinese_yangyue = {}
+		chinese_minyue = {}
+		chinese_dongou = {}
+		chinese_nanyue = {}
+		chinese_luoyue = {}
+		chinese_cangwu = {}
+		chinese_hlai = {}
+		chinese_aestian = {}
+		chinese_vend = {}
+		chinese_sklaven = {}
+		chinese_antae = {}
+		chinese_ordos = {}
+		chinese_xianbei = {}
+		chinese_xiongnu = {}
+		chinese_wuhuan = {}
+		chinese_tuoba = {}
+		chinese_rouran = {}
+		chinese_belgae = {}
+		chinese_treverian = {}
+		chinese_aduatacian = {}
+		chinese_eburonian = {}
+		chinese_nervian = {}
+		chinese_morinian = {}
+		chinese_veliocassian = {}
+		chinese_bellovacian = {}
+		chinese_sennonian = {}
+		chinese_britannic = {}
+		chinese_caledonian = {}
+		chinese_iceni = {}
+		chinese_trinovantian = {}
+		chinese_cantian = {}
+		chinese_durotrigan = {}
+		chinese_dumnonian = {}
+		chinese_dobunnian = {}
+		chinese_demetian = {}
+		chinese_ordovitian = {}
+		chinese_coritani = {}
+		chinese_cornovian = {}
+		chinese_brigantic = {}
+		chinese_votadinian = {}
+		chinese_damnonian = {}
+		chinese_taexalian = {}
+		chinese_armenian = {}
+		chinese_albanian = {}
+		chinese_ibero = {}
+		chinese_colchian = {}
+		chinese_caristian = {}
+		chinese_celtician = {}
+		chinese_lusitanian = {}
+		chinese_vettonian = {}
+		chinese_carpetanian = {}
+		chinese_celtiberian = {}
+		chinese_lobetanian = {}
+		chinese_sedetanian = {}
+		chinese_vaccaeian = {}
+		chinese_asturian = {}
+		chinese_callaecian = {}
+		chinese_vardulian = {}
+		chinese_celtic_pannonian = {}
+		chinese_letobician = {}
+		chinese_carnian = {}
+		chinese_noric = {}
+		chinese_boian = {}
+		chinese_eravisci = {}
+		chinese_dacian = {}
+		chinese_getian = {}
+		chinese_triballoi = {}
+		chinese_moesi = {}
+		chinese_harpii = {}
+		chinese_costoboci = {}
+		chinese_buridavensi = {}
+		chinese_caucoensi = {}
+		chinese_ratacensi = {}
+		chinese_biephi = {}
+		chinese_odrysi = {}
+		chinese_thracian = {}
+		chinese_bithynian = {}
+		chinese_mariandynian = {}
+		chinese_aramaic = {}
+		chinese_assyrian = {}
+		chinese_babylonian = {}
+		chinese_hibernian = {}
+		chinese_manavian = {}
+		chinese_aremorican = {}
+		chinese_lepontic = {}
+		chinese_vindelician = {}
+		chinese_helvetian = {}
+		chinese_biturigan = {}
+		chinese_volcae = {}
+		chinese_salluvian = {}
+		chinese_haedui = {}
+		chinese_carnuti = {}
+		chinese_santonian = {}
+		chinese_lemovician = {}
+		chinese_pictonian = {}
+		chinese_aulercian = {}
+		chinese_arverni = {}
+		chinese_saxonian = {}
+		chinese_anglian = {}
+		chinese_reudingian = {}
+		chinese_teutonian = {}
+		chinese_cimbrian = {}
+		chinese_herulian = {}
+		chinese_rugian = {}
+		chinese_helveconian = {}
+		chinese_bastarnae = {}
+		chinese_gutones = {}
+		chinese_suiones = {}
+		chinese_vandal = {}
+		chinese_raumarician = {}
+		chinese_irminonic = {}
+		chinese_istvaeonic = {}
+		chinese_ingvaeonic = {}
+		chinese_suebian = {}
+		chinese_lemovian = {}
+		chinese_gothonic = {}
+		chinese_frisian = {}
+		chinese_oretanian = {}
+		chinese_contestanian = {}
+		chinese_bastetanian = {}
+		chinese_ilercavonian = {}
+		chinese_edetanian = {}
+		chinese_lacetanian = {}
+		chinese_indiketian = {}
+		chinese_ausetanian = {}
+		chinese_turdetanian = {}
+		chinese_couneian = {}
+		chinese_turdulian = {}
+		chinese_taulantian = {}
+		chinese_abrian = {}
+		chinese_dardanian = {}
+		chinese_illyrian = {}
+		chinese_histrian = {}
+		chinese_liburnian_culture = {}
+		chinese_catari = {}
+		chinese_deraemestian = {}
+		chinese_deurian = {}
+		chinese_messapian = {}
+		chinese_paeonian = {}
+		chinese_kannadan = {}
+		chinese_tamil = {}
+		chinese_telugu = {}
+		chinese_lac = {}
+		chinese_aslia = {}
+		chinese_khmer = {}
+		chinese_bahnar = {}
+		chinese_mon = {}
+		chinese_paluan = {}
+		chinese_khas = {}
+		chinese_mund = {}
+		chinese_hamgyong = {}
+		chinese_gangwon = {}
+		chinese_gyeongsang = {}
+		chinese_hwanghae = {}
+		chinese_chungcheong = {}
+		chinese_jeolla = {}
+		chinese_liaodong = {}
+		chinese_roman = {}
+		chinese_venetic = {}
+		chinese_ligurian = {}
+		chinese_etruscan = {}
+		chinese_rhaetian = {}
+		chinese_umbrian = {}
+		chinese_samnite = {}
+		chinese_siculian = {}
+		chinese_bruttian = {}
+		chinese_lucanian = {}
+		chinese_meroitic = {}
+		chinese_blemmyan = {}
+		chinese_numidian = {}
+		chinese_berber = {}
+		chinese_gaetulian = {}
+		chinese_socossian = {}
+		chinese_massaesylian = {}
+		chinese_massylian = {}
+		chinese_garamantic = {}
+		chinese_libyan = {}
+		chinese_kalingan = {}
+		chinese_kamarupi = {}
+		chinese_bangli = {}
+		chinese_atavi = {}
+		chinese_magadhi = {}
+		chinese_himalayan = {}
+		chinese_vasconian = {}
+		chinese_aquitani = {}
+		chinese_nuragic = {}
+		chinese_autrigonian = {}
+		chinese_ilergetian = {}
+		chinese_corsian = {}
+		chinese_cantabrian = {}
+		chinese_talaiotic = {}
+		chinese_scythian = {}
+		chinese_sarmatian = {}
+		chinese_roxolanian = {}
+		chinese_kharesmian = {}
+		chinese_derbiccan = {}
+		chinese_sindi = {}
+		chinese_siraci = {}
+		chinese_maeotian = {}
+		chinese_sakan = {}
+		chinese_thyssagetaen = {}
+		chinese_legian = {}
+		chinese_agathyrsian = {}
+		chinese_hadhrami = {}
+		chinese_qatabanian = {}
+		chinese_sheban = {}
+		chinese_minaean = {}
+		chinese_himjar = {}
+		chinese_makan = {}
+		chinese_taif = {}
+		chinese_thamudi = {}
+		chinese_qedarite = {}
+		chinese_zhuang = {}
+		chinese_ouyue = {}
+		chinese_lao = {}
+		chinese_tai = {}
+		chinese_zhangzhung = {}
+		chinese_sumpa = {}
+		chinese_yarlung = {}
+		chinese_tsang = {}
+		chinese_qiang = {}
+		chinese_azha = {}
+		chinese_rong = {}
+		chinese_tocharian = {}
+		chinese_yuezhi = {}
+		chinese_saka = {}
+		chinese_siberian = {}
+		chinese_oghur = {}
+		chinese_oghuz = {}
+		chinese_kipchak = {}
+		chinese_karlak = {}
+		chinese_arghu = {}
+		chinese_magyar = {}
+		chinese_fenni = {}
+		chinese_sami = {}
+		chinese_ugri = {}
+		chinese_samoyed = {}
+		chinese_carthaginian = {}
+		chinese_phoenician = {}
+		chinese_hebrew = {}
+		chinese_nabatean = {}
+		chinese_yelang = {}
+		chinese_mimo = {}
+		chinese_zoudu = {}
+		chinese_kunming = {}
+	}
+	
+	barbarian_names = {
+			ADI BODPA BROKPA CHANGPA DENGBA DUKPA GOLOK KHAMPA KHENG LEPCHA LHOBA LIMBU MEMBA MONPA MISHMI SHERPA TAMANG TANI
+	}
+	
+	graphical_culture = north_indian_gfx
+	ethnicities = {
+		10 = chinese
+	}
+}
+
