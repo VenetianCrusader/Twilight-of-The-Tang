@@ -20,3 +20,17 @@ YUS = "setup/countries/east_asia/yushi.txt"
 BAS = "setup/countries/east_asia/baise.txt"
 LOK = "setup/countries/east_asia/lo.txt"
 JNG = "setup/countries/east_asia/jinghai.txt"
+
+# TIBET
+GUG = "setup/countries/central_asia/guge.txt"
+UKT = "setup/countries/central_asia/u.txt"
+
+# STEPPE
+QOC = "setup/countries/central_asia/qocho.txt"
+KHO = "setup/countries/central_asia/867_khotan.txt"
+KIT = "setup/countries/central_asia/khitan.txt"
+TAT = "setup/countries/central_asia/tatar.txt"
+KRT = "setup/countries/central_asia/keriat.txt"
+URK = "setup/countries/central_asia/uriankhai.txt"
+QAY = "setup/countries/central_asia/qay.txt"
+MON = "setup/countries/central_asia/mongol.txt"
