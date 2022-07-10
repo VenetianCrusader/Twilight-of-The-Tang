@@ -21,7 +21,7 @@ turkic = {
 			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Teke Tura Umay Usunbike Yasar Yeldem Yildiz Ilkay Ipek Ipekel Irge Jiajak Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul
 		}
 	family = {
-		Ashina Yabgu Kipchak Uzen Seljuq Ghaznavid Zhetysu Hasanid Karakhanid Qocho Yughur Badakhshan Onugid Karlukid Iqidut
+		Ashina Yabgu Kipchak Uzen Seljuq Ghaznavid Zhetysu Hasanid Karakhanid Qocho Yughur Badakhshan Onugid Karlukid Iqidut Khazarid Tuvanid Oghuzid
 	}
 	
 	culture = {
@@ -31,8 +31,8 @@ turkic = {
 		shatuo = {}
 		uriankhai = {}
 		tuvan = {}
-    khazar = {}
-    karluk = {}
+    		khazar = {}
+    		karluk = {}
 	}
 	
 	barbarian_names = {
