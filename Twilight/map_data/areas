@@ -1,0 +1,4 @@
+lulong_area = { #11
+    provinces = { 12225 12326}
+    # color = hsv { 0.5 1.0 1.0 }  # or named color, or rgb
+}
