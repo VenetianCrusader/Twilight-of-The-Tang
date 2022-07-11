@@ -1,4 +1,5 @@
-lulong_area = { #11
-    provinces = { 12225 12326}
+# Heibei
+jizhou_area = { #11
+    provinces = { 1 2 3 4 5 15 16 19 20 25 26 }
     # color = hsv { 0.5 1.0 1.0 }  # or named color, or rgb
 }
